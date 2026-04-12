@@ -1,0 +1,12 @@
+{
+  "export_job_id": "13d23f4f-6003-4b3f-adcc-3a794dfc33b5",
+  "id_short": 423470,
+  "published_at": "2026-04-12T19:06:46Z",
+  "repo_name": "all-restaurants-in-plano-texas-us-sample-423470",
+  "sample_asset_name": "beamstation_423470_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/423470/beamstation_423470_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "ca77f6913e45a9c9032db0b0d01e6e25ae698cc8120f69a278c39a88eb4bb9f5",
+  "sample_size_bytes": 116703,
+  "total_records": 691
+}
