@@ -1,6 +1,6 @@
 # All Restaurants in Plano, Texas, US
 
-> Free BeamStation sample export with 105 rows and masked direct-contact fields.
+> Free BeamStation sample export with 113 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `423470` |
 | Location | Plano |
 | Category | Restaurants |
-| Full dataset size | 1,052 records |
-| Free sample size | 105 records (9.98%) |
-| Last export | 2026-04-28T18:04:18.229098+00:00 |
+| Full dataset size | 1,130 records |
+| Free sample size | 113 records (10.0%) |
+| Last export | 2026-05-07T01:09:11.737132+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-plano-texas-us-sample-423470/releases/download/sample-latest/beamstation_423470_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
